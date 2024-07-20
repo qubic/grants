@@ -2,9 +2,7 @@
 
 Applications are now open until August 30th.
 
-## Link to the program
-
-[Program Link](https://grants.qubic.org/)
+## [https://grants.qubic.org/](https://grants.qubic.org/)
 
 ## Introduction
 
