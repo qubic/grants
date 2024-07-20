@@ -1,4 +1,4 @@
-# Qubic Grant-Programm
+# Qubic Grant-Program
 
 Applications are now open until August 30th.
 
