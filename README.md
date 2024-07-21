@@ -25,7 +25,6 @@ The Qubic Grants Program aims to foster the development of high-quality smart co
 - Data Marketplaces
 - UI/UX QX
 - UI/UX Quottery
-- Qsilvers QX
 - Tradehistory TXs
 - Mixing Service
 - Decentralized voting
