@@ -2,7 +2,7 @@
 
 Applications are now open until August 30th.
 
-## [https://grants.qubic.org/](https://grants.qubic.org/)
+## [Grant-Program webpage](https://grants.qubic.org/)
 
 ## Introduction
 
@@ -58,7 +58,7 @@ The grant application process will be conducted in batches, with specific grant 
 - **Relevant Experience**: Proven experience with relevant languages (e.g., C++) and front-end implementations. Provide examples of past projects or contributions to similar technologies.
 - **Sustainable Development**: Demonstrate that the project will be maintained after the grant is completed, either through a commitment to the technology, additional funding sources, or an existing business model. Outline your plans for long-term support and updates.
 - **Innovation**: Highlight how the application stands out among competitors or implements technology that is not yet present in the ecosystem. Show how your project will add unique value.
-- **Open Source**: All produced code must be open-source and should not rely on closed-source software for full functionality. Preferred licenses include Apache 2.0, GPLv3, MIT, or Unlicense. This ensures transparency and community collaboration.
+- **Open Source**: All produced code must be open-source and should not rely on closed-source software for full functionality. Preferred licenses include Apache 2.0, GPLv3, MIT. All projects must comply with the terms of the [Anti Military Licence](https://github.com/computor-tools/qubic-crypto/blob/main/LICENSE).
 - **Token Sales**: Projects planning a token sale are not eligible for grants. Focus on community benefit without requiring a specific token. Explain how your project will enhance the ecosystem without financial incentives.
   - **Exceptions**: There will be exceptions, such as token swaps with other communities that benefit the interoperability and use of Qubic’s technology, and some other specific cases.
 - **Multiple Grants**: A team can apply for several grants. Outline how you plan to manage multiple projects and ensure quality across all of them.
