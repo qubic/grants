@@ -111,23 +111,3 @@ This section outlines the security measures implemented to protect the QNS syste
 ## Proposals and Improvements
 
 Improvements to the protocol or changes to this description aimed at enhancing its functionality are also welcome. Proposals that include a technical and functional design have a higher chance of being accepted, along with the consideration of ease of integration.
-
-## Contribution Guidelines
-
-We invite developers and enthusiasts to contribute to the QNS project. Here are some ways you can get involved:
-
-- **Development**: Help us build and enhance smart contracts, web interfaces, and backend services.
-- **Testing**: Participate in testing and provide feedback to improve the system.
-- **Documentation**: Contribute to the documentation to ensure it is comprehensive and user-friendly.
-- **Community Support**: Engage with the community, provide support, and help spread the word about QNS.
-
-## Getting Started
-
-To get started with contributing to QNS, please follow these steps:
-
-1. **Fork the Repository**: Clone the repository to your local machine.
-2. **Set Up Development Environment**: Follow the instructions in the repository to set up your development environment.
-3. **Start Developing**: Pick an issue or feature to work on, and start coding!
-4. **Submit a Pull Request**: Once you’ve made your changes, submit a pull request for review.
-
-
