@@ -1,8 +1,36 @@
 # Qubic Grant-Program
 
-Applications are now open until August 31th.
+Applications are open.
 
-## [Grant-Program webpage](https://grants.qubic.org/)
+To apply for a proposal, fill out this form: [https://tally.so/r/n9l50Q](https://tally.so/r/n9l50Q). Each application will be reviewed individually.
+
+## [Grant-Program webpage](https://qubic.org/grants/)
+
+## Request for Proposals (RFPs)
+
+We are seeking talented builders and developers to help bring our project ideas to life! This repository contains a collection of RFPs (Request for Proposals) outlining various applications and tools we'd like to see built on the Qubic platform.
+
+- [Gnosis-Like Multisig App](RFPs/Gnosis-Like%20Multisig%20App.md)
+- [Online Code Editor for C++ Smart Contracts](RFPs/Online%20Code%20Editor%20for%20C++%20Smart%20Contracts.md) 
+- [OpenZeppelin Equivalent for C++ Smart Contracts](RFPs/OpenZeppelin%20Equivalent%20for%20C++%20Smart%20Contracts.md)
+
+## Application Process
+
+The grant application process will be conducted in batches, with specific grant windows open for a designated period. This approach allows for thorough review and selection of proposals while fostering a strong community of applicants. By organizing the grants in batches, we can provide better support and engagement for each cohort, enhancing collaboration and ensuring a high standard of development within the Qubic ecosystem. Please refer to the Qubic website for the current grant window timelines and submit your proposal within the designated time frame.
+
+1. **Initial Proposal**: Submit a detailed proposal through the Qubic website using our application form. The form will ask for details such as your company/project name, website URL/GitHub, personal information (first name, last name, country, email address), a detailed description of the proposal, funding amount requested, a plan and approach with costing and rationale, team member backgrounds and experience, and how your proposal benefits the Qubic ecosystem.
+2. **Review and Selection**: Our team will review the proposals and select the most promising ones based on their potential impact, feasibility, and alignment with Qubic's goals.
+3. **Development and Delivery**: Selected developers will receive funding based on the completion of key milestones, ensuring accountability and encouraging thorough testing. The funding will be distributed in four tranches:
+    - Milestone 1: Initial setup and basic functionality - 25%
+    - Milestone 2: Mid-development review and progress demonstration - 25%
+    - Milestone 3: Beta version delivery and testing phase - 25%
+    - Milestone 4: Final deployment and full functionality - 25%
+4. **Evaluation and Audit**: The smart contracts will be evaluated and audited to ensure they meet the program's requirements. This includes code reviews, security audits, and performance testing.
+
+## Get in Touch
+
+If you have any questions, ideas, or proposals, feel free to open an issue on this repository or reach out to our team on [Discord](https://discord.gg/qubic).
+
 
 ## Introduction
 
@@ -14,7 +42,7 @@ The Qubic Grants Program aims to foster the development of high-quality smart co
 - Token Insurance
 - Lending Protocols
 - Developer tools
-- SC Builder for dummy’s
+- SC Builder for dummy's
 - Token creation
 - Crowdfunding platform
 - Freelance work contracts / Automate pay-roll: Leveraging the feeless Qubic transfers for streaming payments
@@ -38,19 +66,6 @@ The Qubic Grants Program aims to foster the development of high-quality smart co
 - **Reusability**: Support the creation of smart contracts that can be used by other projects within the Qubic ecosystem. This encourages standardization and efficiency in development.
 - **Ecosystem Growth**: Facilitate the creation of tools and services that drive the adoption of the Qubic platform. By providing necessary infrastructure, we aim to attract more developers and projects to Qubic.
 
-## Application Process
-
-The grant application process will be conducted in batches, with specific grant windows open for a designated period. This approach allows for thorough review and selection of proposals while fostering a strong community of applicants. By organizing the grants in batches, we can provide better support and engagement for each cohort, enhancing collaboration and ensuring a high standard of development within the Qubic ecosystem. Please refer to the Qubic website for the current grant window timelines and submit your proposal within the designated time frame.
-
-1. **Initial Proposal**: Submit a detailed proposal through the Qubic website using our application form. The form will ask for details such as your company/project name, website URL/GitHub, personal information (first name, last name, country, email address), a detailed description of the proposal, funding amount requested, a plan and approach with costing and rationale, team member backgrounds and experience, and how your proposal benefits the Qubic ecosystem.
-2. **Review and Selection**: Our team will review the proposals and select the most promising ones based on their potential impact, feasibility, and alignment with Qubic’s goals.
-3. **Development and Delivery**: Selected developers will receive funding based on the completion of key milestones, ensuring accountability and encouraging thorough testing. The funding will be distributed in four tranches:
-    - Milestone 1: Initial setup and basic functionality - 25%
-    - Milestone 2: Mid-development review and progress demonstration - 25%
-    - Milestone 3: Beta version delivery and testing phase - 25%
-    - Milestone 4: Final deployment and full functionality - 25%
-4. **Evaluation and Audit**: The smart contracts will be evaluated and audited to ensure they meet the program’s requirements. This includes code reviews, security audits, and performance testing.
-
 ## Detailed Proposal Requirements
 
 - **Concept Validation**: The proposal must include a well-researched or tested concept, ideally with evidence of prior work. Demonstrate the feasibility and potential impact of your project.
@@ -60,7 +75,7 @@ The grant application process will be conducted in batches, with specific grant 
 - **Innovation**: Highlight how the application stands out among competitors or implements technology that is not yet present in the ecosystem. Show how your project will add unique value.
 - **Open Source**: All produced code must be open-source and should not rely on closed-source software for full functionality. Preferred licenses include Apache 2.0, GPLv3, MIT. All projects must comply with the terms of the [Anti Military Licence](https://github.com/computor-tools/qubic-crypto/blob/main/LICENSE).
 - **Token Sales**: Projects planning a token sale are not eligible for grants. Focus on community benefit without requiring a specific token. Explain how your project will enhance the ecosystem without financial incentives.
-  - **Exceptions**: There will be exceptions, such as token swaps with other communities that benefit the interoperability and use of Qubic’s technology, and some other specific cases.
+  - **Exceptions**: There will be exceptions, such as token swaps with other communities that benefit the interoperability and use of Qubic's technology, and some other specific cases.
 - **Multiple Grants**: A team can apply for several grants. Outline how you plan to manage multiple projects and ensure quality across all of them.
 - **Legal Compliance**: We do not fund projects that encourage criminal activities. Ensure that your proposal adheres to all relevant laws and regulations.
 
