@@ -55,7 +55,6 @@ The Qubic Grants Program aims to foster the development of high-quality smart co
 - UI/UX Quottery
 - Multisign and User Interface
 - Tradehistory TXs
-- Mixing Service
 - Decentralized voting
 - UX to interact with SC
 - Other Projects: Any other smart contracts that can serve as fundamental infrastructure for future developments.
